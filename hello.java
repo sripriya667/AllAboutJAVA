@@ -125,8 +125,5 @@ class hello
    String test = (time<30) ? "goodday" : "badday";
    System.out.println(test);
 
-   int x = 10; do {     x--; } while (x > 5); System.out.println(x); 
-
-   System.out.println();
 }
 }
