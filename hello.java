@@ -126,5 +126,7 @@ class hello
    System.out.println(test);
 
    int x = 10; do {     x--; } while (x > 5); System.out.println(x); 
+
+   System.out.println();
 }
 }
